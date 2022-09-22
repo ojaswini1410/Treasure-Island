@@ -46,6 +46,7 @@ elif choose_3 == "blue":
 else:
   print("Congratulations!\nYou surpassed every obstacle and you found the treasure\nYOU WIN! ")
 
+#End of program
 
 
 
